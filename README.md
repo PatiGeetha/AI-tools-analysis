@@ -100,7 +100,7 @@ These helped in understanding:
 1. Clone the repository
 
 ```
-git clone https://github.com/manu743-gif/AI-tools-analysis.git
+git clone https://github.com/PatiGeetha/AI-tools-analysis.git
 ```
 
 2. Open the project folder
