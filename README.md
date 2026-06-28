@@ -145,6 +145,6 @@ It provides useful insights and helps improve skills in **data analysis, visuali
 
 ## 👨‍💻 Author
 
-**Koyilada Manohar**
+**Geetha Pati**
 B.Tech CSE
 Data Science with Python Internship Project
